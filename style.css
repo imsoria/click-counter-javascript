@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: antiquewhite;
+    font-size: 18px;
+}
+
+.counter {
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    width: 150px;
+    height: auto;
+}
